@@ -1,13 +1,63 @@
 {
-  "_meta": {
-    "maxChars": {
-      "welcome": 20,
-      "readyToPlay": 20,
-      "pressContinue": 50,
-      "greatJob": 20,
-      "onePlusOne": 30
-    }
-  },
+    "_meta": {
+        "maxChars": {
+            "welcome": 20,
+            "readyToPlay": 20,
+            "pressContinue": 50,
+            "greatJob": 20,
+            "onePlusOne": 30,
+            "sidequest_fail": 57,
+            "S5_starts_01": 63,
+            "soundsettings_key": 34,
+            "S6_treasure_win": 130,
+            "sidequest_presentation": 249,
+            "presentation_parrot_00": 138,
+            "first_treasure_win": 84,
+            "presentation_parrot_03": 235,
+            "rewardpanel_presentation2": 170,
+            "new_game_key": 21,
+            "S3_starts_01": 146,
+            "nomorecoins_key": 103,
+            "S5_sidequest_fail": 73,
+            "S5_treasure_win": 118,
+            "S5_treasure_01": 137,
+            "victoryscreen_01": 138,
+            "treasure_win_S4": 115,
+            "stackofcoins_presentation": 230,
+            "continue_game_key": 21,
+            "presentation_parrot_02": 196,
+            "treasure_win_S2": 42,
+            "S6_starts_00": 156,
+            "S3_starts_00": 122,
+            "resume_game_key": 24,
+            "presentation_parrot_04": 100,
+            "rewardpanel_presentation_00": 234,
+            "presentation_parrot_01": 138,
+            "getcaught_afil_key": 93,
+            "S2_starts_00": 36,
+            "treasure_win_S7": 206,
+            "S2_starts_01": 197,
+            "S7_treasure_win": 206,
+            "fist_treasure_fail": 150,
+            "restartlevel_key": 25,
+            "S5_starts_00": 76,
+            "treasure_win_S6": 130,
+            "treasure_win_S3": 67,
+            "welcome_parrot": 102,
+            "touchland_key": 143,
+            "sidequestwin_firsttime": 85,
+            "treasure_win_S5": 118,
+            "rewardpanel_presentation_01": 170,
+            "rewardpanel_presentation": 234,
+            "S7_starts_01": 152,
+            "backtothemain_key": 36,
+            "S4_starts_00": 85,
+            "S6_starts_01": 61,
+            "victoryscreen_00": 242,
+            "passing_through": 123,
+            "S4_starts_01": 85
+        }
+    },
     "en": {
         "new_game_key": "New Game",
         "continue_game_key": "Continue!",
@@ -16,134 +66,88 @@
         "restartlevel_key": "Restart Level",
         "soundsettings_key": "Sound Settings",
         "welcome_parrot": "Welcome! You are now at Treasure Bay, a well known pirate fort.",
-        "presentation_parrot_01": "Don’t worry, I’m here to help you with treasure hunting. Let’s try together first.",
-        "presentation_parrot_02": "Do you see the scroll at the right of the map? Let’s write the coordinates for your captain there.",
-        "presentation_parrot_03": "The coordinates are formed by two elements: x-axis and the y-axis. You have to write them as a pair in that exact order, between brackets. Like this: (x,y).",
-        "presentation_parrot_04": "The x-axis indicates horizontal location and the y-axis does the same for vertical information. Let’s go! Write down the pair of coordinates to the point shown on the map and hit the sail button.",
-        "presentation_parrot_05": "Do you see that signal? The X indicates the position of a treasure.",
+        "presentation_parrot_00": "Don’t worry, I’m here to help you with treasure hunting. Let’s try together first.",
+        "presentation_parrot_01": "Do you see the scroll at the right of the map? Let’s write the coordinates for your captain there.",
+        "presentation_parrot_02": "The coordinates are formed by two elements: x-axis and the y-axis. You have to write them as a pair in that exact order, between brackets. Like this: (x,y).",
+        "presentation_parrot_03": "The x-axis indicates horizontal location and the y-axis does the same for vertical information. Let’s go! Write down the pair of coordinates to the point shown on the map and hit the sail button.",
+        "presentation_parrot_04": "Do you see that signal? The X indicates the position of a treasure.",
         "first_treasure_win": "You got your first treasure! Let’s look for another one.",
         "passing_through": "Wait! You have to stop in the right spot! You missed your target! Go back!",
         "fist_treasure_fail": "Check for the correct coordinates… Remember you always move first in the x-axis, and then in the y-axis.",
-        "level2_starts_01": "Look! A new treasure!",
-        "level2_starts_02": "In each quest, you will have a certain number of coins for your captain. Be careful, if you get out of coins, the captain will rest and call it a day!",
+        "S2_starts_00": "Look! A new treasure!",
+        "S2_starts_01": "In each quest, you will have a certain number of coins for your captain. Be careful, if you get out of coins, the captain will rest and call it a day!",
         "stackofcoins_presentation": "If you get out of coins, you will have to try again! You will receive one, two or three stars if you can manage to finish your task by keeping some of your coins by the end of the day. Ahoy!",
         "sidequest_presentation": "There are some special trees around the bay. Their fruits have to be harvested at a specific moment in the day… It’s totally optional, but I will pay some extra coins if you get them for me!",
         "sidequestwin_firsttime": "Ujuuu! Now let’s continue. Here are your extra coins!",
         "sidequest_fail": "Ok, don’t worry! Go on!",
-        "treasure_win_level2": "Well done!” “Let’s continue!",
+        "treasure_win_S2": "Well done!” “Let’s continue!",
         "nomorecoins_key": "The captain is done for the day. You will have to try again tomorrow!",
         "touchland_key": "Oh! I didn’t realize I had to tell you your ship doesn’t have wheels! Avoid the land, sailor!",
-        "rewardpanel_presentation": "If you keep your coins by the end of the level you will receive some stars! Two coins remaining mean three stars; one coin means two, and no coins mean one star!",
-        "rewardpanel_presentation2": "Also, you can choose to do some side optional quests when available to earn an additional good-pirate badge!",
-        "level3_starts_01": "Oh, oh. We have company… Try to avoid being intercepted by corsaire ships!",
-        "level3_starts_02": "Oh! The fruit I like is available for a short period of time again, let’s pick it up if you want",
-        "treasure_win_level3": "It was really close! You are a real pirate!",
+        "rewardpanel_presentation_00": "If you keep your coins by the end of the level you will receive some stars! Two coins remaining mean three stars; one coin means two, and no coins mean one star!",
+        "rewardpanel_presentation_01": "Also, you can choose to do some side optional quests when available to earn an additional good-pirate badge!",
+        "S3_starts_00": "Oh, oh. We have company… Try to avoid being intercepted by corsaire ships!",
+        "S3_starts_01": "Oh! The fruit I like is available for a short period of time again, let’s pick it up if you want",
+        "treasure_win_S3": "It was really close! You are a real pirate!",
         "getcaught_afil_key": "Oh, let’s return home. We have been seen. Try again tomorrow.",
-        "level4_starts_01": "Nothing else to explain. You know what to do, sailor!",
-        "treasure_win_level4": "Good job! You are going to make me… I mean, you are going to be rich, sailor!",
-        "level5_starts_01": "Oh, other pirates are in trouble! Let’s help them.",
-        "level5_starts_02": "There is a fruit to harvest, too!",
-        "level5_sidequest_fail": "We lost the fruit. Don’t worry. Let’s continue!",
-        "level5_treasure_01": "Now we have to return to the bay. People may need water, food and medical assistance!",
-        "level5_treasure_win": "You are a hero! Well done. Treasures will await us on our next journey.",
-        "level6_starts_01": "Let’s sail! But be careful with our coordinates, it seems it’s windy today! It changes your calculations",
-        "level6_starts_02": "Look! There is some fruit on that island.",
-        "level6_treasure_win": "This treasure has a map inside of it… Maybe we can try going a little further tomorrow.",
-        "level7_starts_01": "Ahoy! Let’s try going for a big treasure today! Are you ready? Let’s sail! But be careful, it’s windy again!",
-        "level7_treasure_win": "Wow! You did it! You got a really great one! You can buy a lot of parrot food with that amount of gold! And a brand new ship, of course, of course…",
-        "victoryscreen_01": "Congratulations. You got a lot of treasures! You are so lucky to have me helping you, am I right? But, it’s true, you also succeeded in giving the correct coordinates to your captain. I am proud of you!",
-        "victoryscreen_02": "Good job! We can rest now… Well done! I had a great time with you, sailor! Ahoy!"
-
+        "S4_starts_00": "Nothing else to explain. You know what to do, sailor!",
+        "treasure_win_S4": "Good job! You are going to make me… I mean, you are going to be rich, sailor!",
+        "S5_starts_00": "Oh, other pirates are in trouble! Let’s help them.",
+        "S5_starts_01": "There is a fruit to harvest, too!",
+        "S5_sidequest_fail": "We lost the fruit. Don’t worry. Let’s continue!",
+        "S5_treasure_01": "Now we have to return to the bay. People may need water, food and medical assistance!",
+        "treasure_win_S5": "You are a hero! Well done. Treasures will await us on our next journey.",
+        "S6_starts_00": "Let’s sail! But be careful with our coordinates, it seems it’s windy today! It changes your calculations",
+        "S6_starts_01": "Look! There is some fruit on that island.",
+        "treasure_win_S6": "This treasure has a map inside of it… Maybe we can try going a little further tomorrow.",
+        "S7_starts_01": "Ahoy! Let’s try going for a big treasure today! Are you ready? Let’s sail! But be careful, it’s windy again!",
+        "treasure_win_S7": "Wow! You did it! You got a really great one! You can buy a lot of parrot food with that amount of gold! And a brand new ship, of course, of course…",
+        "victoryscreen_00": "Congratulations. You got a lot of treasures! You are so lucky to have me helping you, am I right? But, it’s true, you also succeeded in giving the correct coordinates to your captain. I am proud of you!",
+        "victoryscreen_01": "Good job! We can rest now… Well done! I had a great time with you, sailor! Ahoy!"
     },
-
-        "es": {
-            "new_game_key": "Nuevo Juego",
-            "continue_game_key": "¡Continuar!",
-            "resume_game_key": "Reanudar juego",
-            "backtothemain_key": "Volver al Menú Principal",
-            "restartlevel_key": "Reiniciar Nivel",
-            "soundsettings_key": "Configuración de Sonido",
-            "welcome_parrot": "¡Bienvenido! Ahora estás en Treasure Bay, un conocido fuerte pirata.",
-            "presentation_parrot_01": "No te preocupes, estoy aquí para ayudarte con la búsqueda de tesoros. Intentémoslo juntos primero.",
-            "presentation_parrot_02": "¿Ves el pergamino a la derecha del mapa? Escribamos las coordenadas para tu capitán ahí.",
-            "presentation_parrot_03": "Las coordenadas están formadas por dos elementos: el eje x y el eje y. Debes escribirlos como un par en ese orden exacto, entre paréntesis. Así: (x,y).",
-            "presentation_parrot_04": "El eje x indica la ubicación horizontal y el eje y hace lo mismo para la información vertical. ¡Vamos! Escribe el par de coordenadas al punto mostrado en el mapa y presiona el botón de navegar.",
-            "presentation_parrot_05": "¿Ves esa señal? La X indica la posición de un tesoro.",
-            "first_treasure_win": "¡Conseguiste tu primer tesoro! Busquemos otro.",
-            "passing_through": "¡Espera! ¡Tienes que detenerte en el lugar exacto! ¡Fallaste tu objetivo! ¡Regresa!",
-            "fist_treasure_fail": "Verifica las coordenadas correctas... Recuerda que siempre te mueves primero en el eje x, y luego en el eje y.",
-            "level2_starts_01": "¡Mira! ¡Un nuevo tesoro!",
-            "level2_starts_02": "En cada misión, tendrás cierta cantidad de monedas para tu capitán. ¡Ten cuidado, si te quedas sin monedas, el capitán descansará y dejará su puesto por hoy!",
-            "stackofcoins_presentation": "Si te quedas sin monedas, ¡tendrás que intentarlo de nuevo! Recibirás una, dos o tres estrellas si logras terminar tu tarea manteniendo algunas de tus monedas al final del día. ¡Ahoy!",
-            "sidequest_presentation": "Hay algunos árboles especiales alrededor de la bahía. Sus frutos deben ser cosechados en un momento específico del día... Es totalmente opcional, ¡pero te pagaré algunas monedas extra si los consigues para mí!",
-            "sidequestwin_firsttime": "¡Ujuuu! Ahora continuemos. ¡Aquí están tus monedas extra!",
-            "sidequest_fail": "¡Ok, no te preocupes! ¡Sigue adelante!",
-            "treasure_win_level2": "¡Bien hecho! ¡Continuemos!",
-            "nomorecoins_key": "El capitán terminó por hoy. ¡Tendrás que intentarlo de nuevo mañana!",
-            "touchland_key": "¡Oh! No me di cuenta de que tenía que decirte que tu barco no tiene ruedas. ¡Evita la tierra, marinero!",
-            "rewardpanel_presentation": "Si mantienes tus monedas al final del nivel, ¡recibirás algunas estrellas! Dos monedas te darán tres estrellas, una moneda te dará una estrella y si terminas sin monedas, obtendrás una estrella.",
-            "rewardpanel_presentation2": "Además, puedes elegir hacer algunas misiones opcionales cuando estén disponibles para ganar una insignia adicional de buen pirata.",
-            "level3_starts_01": "Oh, oh. Tenemos compañía... Trata de evitar ser interceptado por barcos corsarios.",
-            "level3_starts_02": "¡Oh! La fruta que me gusta está disponible por un corto período de tiempo de nuevo, recojámosla si quieres",
-            "treasure_win_level3": "¡Estuvo muy cerca! ¡Eres un verdadero pirata!",
-            "getcaught_afil_key": "Oh, regresemos a casa. Nos han visto. Intenta de nuevo mañana.",
-            "level4_starts_01": "No hay nada más que explicar. ¡Sabes qué hacer, marinero!",
-            "treasure_win_level4": "¡Buen trabajo! ¡Me vas a hacer... Quiero decir, vas a ser rico, marinero!",
-            "level5_starts_01": "¡Oh, otros piratas están en problemas! Ayudémoslos.",
-            "level5_starts_02": "¡También aquí hay una fruta para cosechar!",
-            "level5_sidequest_fail": "Perdimos la fruta. No te preocupes. ¡Continuemos!",
-            "level5_treasure_01": "Ahora tenemos que regresar a la bahía. La gente puede necesitar agua, comida y asistencia médica.",
-            "level5_treasure_win": "¡Eres un héroe! Bien hecho. Más tesoros nos esperarán en nuestro próximo viaje.",
-            "level6_starts_01": "¡Naveguemos! Pero ten cuidado con nuestras coordenadas, ¡parece que hay viento hoy! Eso puede complicar tus cálculos",
-            "level6_starts_02": "¡Mira! Hay fruta en esa isla.",
-            "level6_treasure_win": "Este tesoro tiene un mapa adentro... Tal vez podamos intentar ir un poco más lejos mañana.",
-            "level7_starts_01": "¡Ahoy! ¡Intentemos ir por un gran tesoro hoy! ¿Estás listo? ¡Naveguemos! Pero ten cuidado, ¡hay viento de nuevo!",
-            "level7_treasure_win": "¡Wow! ¡Lo lograste! ¡Conseguiste uno realmente grande! ¡Puedes comprar mucha comida para loro con esa cantidad de oro! Y un barco nuevo, por supuesto, por supuesto...",
-            "victoryscreen_01": "Felicidades. ¡Conseguiste muchos tesoros! Tienes mucha suerte de tenerme ayudándote, ¿verdad? Pero, es cierto, también lograste darle las coordenadas correctas a tu capitán. ¡Estoy orgulloso de ti!",
-            "victoryscreen_02": "¡Buen trabajo! Ahora podemos descansar... ¡Bien hecho! ¡La pasé muy bien contigo, marinero! ¡Ahoy!"
-        }
+    "es": {
+        "new_game_key": "Nuevo Juego",
+        "continue_game_key": "¡Continuar!",
+        "resume_game_key": "Reanudar juego",
+        "backtothemain_key": "Volver al Menú Principal",
+        "restartlevel_key": "Reiniciar Nivel",
+        "soundsettings_key": "Configuración de Sonido",
+        "welcome_parrot": "¡Bienvenido! Ahora estás en Treasure Bay, un conocido fuerte pirata.",
+        "presentation_parrot_00": "No te preocupes, estoy aquí para ayudarte con la búsqueda de tesoros. Intentémoslo juntos primero.",
+        "presentation_parrot_01": "¿Ves el pergamino a la derecha del mapa? Escribamos las coordenadas para tu capitán ahí.",
+        "presentation_parrot_02": "Las coordenadas están formadas por dos elementos: el eje x y el eje y. Debes escribirlos como un par en ese orden exacto, entre paréntesis. Así: (x,y).",
+        "presentation_parrot_03": "El eje x indica la ubicación horizontal y el eje y hace lo mismo para la información vertical. ¡Vamos! Escribe el par de coordenadas al punto mostrado en el mapa y presiona el botón de navegar.",
+        "presentation_parrot_04": "¿Ves esa señal? La X indica la posición de un tesoro.",
+        "first_treasure_win": "¡Conseguiste tu primer tesoro! Busquemos otro.",
+        "passing_through": "¡Espera! ¡Tienes que detenerte en el lugar exacto! ¡Fallaste tu objetivo! ¡Regresa!",
+        "fist_treasure_fail": "Verifica las coordenadas correctas... Recuerda que siempre te mueves primero en el eje x, y luego en el eje y.",
+        "S2_starts_00": "¡Mira! ¡Un nuevo tesoro!",
+        "S2_starts_01": "En cada misión, tendrás cierta cantidad de monedas para tu capitán. ¡Ten cuidado, si te quedas sin monedas, el capitán descansará y dejará su puesto por hoy!",
+        "stackofcoins_presentation": "Si te quedas sin monedas, ¡tendrás que intentarlo de nuevo! Recibirás una, dos o tres estrellas si logras terminar tu tarea manteniendo algunas de tus monedas al final del día. ¡Ahoy!",
+        "sidequest_presentation": "Hay algunos árboles especiales alrededor de la bahía. Sus frutos deben ser cosechados en un momento específico del día... Es totalmente opcional, ¡pero te pagaré algunas monedas extra si los consigues para mí!",
+        "sidequestwin_firsttime": "¡Ujuuu! Ahora continuemos. ¡Aquí están tus monedas extra!",
+        "sidequest_fail": "¡Ok, no te preocupes! ¡Sigue adelante!",
+        "treasure_win_S2": "¡Bien hecho! ¡Continuemos!",
+        "nomorecoins_key": "El capitán terminó por hoy. ¡Tendrás que intentarlo de nuevo mañana!",
+        "touchland_key": "¡Oh! No me di cuenta de que tenía que decirte que tu barco no tiene ruedas. ¡Evita la tierra, marinero!",
+        "rewardpanel_presentation_00": "Si mantienes tus monedas al final del nivel, ¡recibirás algunas estrellas! Dos monedas te darán tres estrellas, una moneda te dará una estrella y si terminas sin monedas, obtendrás una estrella.",
+        "rewardpanel_presentation_01": "Además, puedes elegir hacer algunas misiones opcionales cuando estén disponibles para ganar una insignia adicional de buen pirata.",
+        "S3_starts_00": "Oh, oh. Tenemos compañía... Trata de evitar ser interceptado por barcos corsarios.",
+        "S3_starts_01": "¡Oh! La fruta que me gusta está disponible por un corto período de tiempo de nuevo, recojámosla si quieres",
+        "treasure_win_S3": "¡Estuvo muy cerca! ¡Eres un verdadero pirata!",
+        "getcaught_afil_key": "Oh, regresemos a casa. Nos han visto. Intenta de nuevo mañana.",
+        "S4_starts_00": "No hay nada más que explicar. ¡Sabes qué hacer, marinero!",
+        "treasure_win_S4": "¡Buen trabajo! ¡Me vas a hacer... Quiero decir, vas a ser rico, marinero!",
+        "S5_starts_00": "¡Oh, otros piratas están en problemas! Ayudémoslos.",
+        "S5_starts_01": "¡También aquí hay una fruta para cosechar!",
+        "S5_sidequest_fail": "Perdimos la fruta. No te preocupes. ¡Continuemos!",
+        "S5_treasure_01": "Ahora tenemos que regresar a la bahía. La gente puede necesitar agua, comida y asistencia médica.",
+        "treasure_win_S5": "¡Eres un héroe! Bien hecho. Más tesoros nos esperarán en nuestro próximo viaje.",
+        "S6_starts_00": "¡Naveguemos! Pero ten cuidado con nuestras coordenadas, ¡parece que hay viento hoy! Eso puede complicar tus cálculos",
+        "S6_starts_01": "¡Mira! Hay fruta en esa isla.",
+        "treasure_win_S6": "Este tesoro tiene un mapa adentro... Tal vez podamos intentar ir un poco más lejos mañana.",
+        "S7_starts_01": "¡Ahoy! ¡Intentemos ir por un gran tesoro hoy! ¿Estás listo? ¡Naveguemos! Pero ten cuidado, ¡hay viento de nuevo!",
+        "treasure_win_S7": "¡Wow! ¡Lo lograste! ¡Conseguiste uno realmente grande! ¡Puedes comprar mucha comida para loro con esa cantidad de oro! Y un barco nuevo, por supuesto, por supuesto...",
+        "victoryscreen_00": "Felicidades. ¡Conseguiste muchos tesoros! Tienes mucha suerte de tenerme ayudándote, ¿verdad? Pero, es cierto, también lograste darle las coordenadas correctas a tu capitán. ¡Estoy orgulloso de ti!",
+        "victoryscreen_01": "¡Buen trabajo! Ahora podemos descansar... ¡Bien hecho! ¡La pasé muy bien contigo, marinero! ¡Ahoy!"
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
