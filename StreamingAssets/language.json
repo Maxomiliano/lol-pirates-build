@@ -71,7 +71,7 @@
         "presentation_parrot_02": "The coordinates are formed by two elements: X-axis and Y-axis. You have to write them as a pair in that exact order, like this: (x,y).",
         "presentation_parrot_03": "The X-axis indicates horizontal location and the Y-axis does the same for vertical information. Let’s go! Write down the coordinates to the point shown on the map and hit the sail button.",
         "presentation_parrot_04": "Do you see that white cross on the map? It indicates the position of a treasure.",
-        "presentation_parrot_05": "Tap the coordinates on the device and sail right there to get the treasure!", //until user input in the device -. Repeat each time waiting for input//
+        "presentation_parrot_05": "Tap the coordinates on the device and sail right there to get the treasure!",
         "first_treasure_win": "You got your first treasure! Let’s look for another one.",
         "passing_through": "Wait! You have to stop in the right spot! You missed your target! Go back!",
         "fist_treasure_fail": "Check for the correct coordinates… Remember you always move first in the X-axis, and then in the Y-axis.",
