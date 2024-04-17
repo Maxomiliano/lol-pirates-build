@@ -128,7 +128,8 @@
         "S7_starts_01": "Ahoy! Let’s try going for a big treasure today! Are you ready? Let’s sail! But be careful, it’s windy again!",
         "treasure_win_S7": "Wow! You did it! You got a really great one! You can buy a lot of parrot food with that amount of gold! And a brand new ship, of course, of course…",
         "victoryscreen_00": "Congratulations. You got a lot of treasures! You are so lucky to have me helping you, am I right? But, it’s true, you also succeeded in giving the correct coordinates to your captain. I am proud of you!",
-        "victoryscreen_01": "Good job! We can rest now… Well done! I had a great time with you, sailor! Ahoy!"
+        "victoryscreen_01": "Good job! We can rest now… Well done! I had a great time with you, sailor! Ahoy!",
+        "best_sailor_badge": "best sailor badge"
     },
     "es": {
         "settings_key": "Configuración",
@@ -166,11 +167,11 @@
         "treasure_win_S2": "¡Bien hecho! ¡Continuemos!",
         "nomorecoins_key": "El capitán terminó por hoy. ¡Tendrás que intentarlo de nuevo mañana!",
         "touchland_key": "¡Oh! No me di cuenta de que tenía que decirte que tu barco no tiene ruedas. ¡Evita la tierra, marinero!",
-        "rewardpanel_presentation_00": "Si mantienes tus monedas al final del nivel, ¡recibirás algunas estrellas!",
-        "rewardpanel_presentation_01":"Dos monedas te darán tres estrellas",  
-        "rewardpanel_presentation_02":"una moneda te dará una estrella",
-        "rewardpanel_presentation_03":"y si terminas sin monedas, obtendrás una estrella.",
-        "rewardpanel_presentation_04": "Además, puedes elegir hacer algunas misiones opcionales cuando estén disponibles para ganar una insignia adicional de buen pirata.",
+        "rewardpanel_presentation_0": "Si mantienes tus monedas al final del nivel, ¡recibirás algunas estrellas!",
+        "rewardpanel_presentation_1":"Dos monedas te darán tres estrellas",  
+        "rewardpanel_presentation_2":"una moneda te dará una estrella",
+        "rewardpanel_presentation_3":"y si terminas sin monedas, obtendrás una estrella.",
+        "rewardpanel_presentation_4": "Además, puedes elegir hacer algunas misiones opcionales cuando estén disponibles para ganar una insignia adicional de buen pirata.",
         "S3_starts_00": "Oh, oh. Tenemos compañía... Trata de evitar ser interceptado por barcos corsarios.",
         "S3_starts_01": "¡Mira! La fruta que me gusta está disponible por un corto período de tiempo de nuevo, recojámosla si quieres.",
         "treasure_win_S3": "¡Estuvo muy cerca! ¡Eres un verdadero pirata!",
@@ -188,6 +189,7 @@
         "S7_starts_01": "¡Ahoy! ¡Intentemos ir por un gran tesoro hoy! ¿Estás listo? ¡Naveguemos! Pero ten cuidado, ¡hay viento de nuevo!",
         "treasure_win_S7": "¡Wow! ¡Lo lograste! ¡Conseguiste uno realmente grande! ¡Puedes comprar mucha comida para loro con esa cantidad de oro! Y un barco nuevo, por supuesto, por supuesto...",
         "victoryscreen_00": "Felicidades. ¡Conseguiste muchos tesoros! Tienes mucha suerte de tenerme ayudándote, ¿verdad? Pero, es cierto, también lograste darle las coordenadas correctas a tu capitán. ¡Estoy orgulloso de ti!",
-        "victoryscreen_01": "¡Buen trabajo! Ahora podemos descansar... ¡Bien hecho! ¡La pasé muy bien contigo, marinero! ¡Ahoy!"
+        "victoryscreen_01": "¡Buen trabajo! Ahora podemos descansar... ¡Bien hecho! ¡La pasé muy bien contigo, marinero! ¡Ahoy!",
+        "best_sailor_badge": "Insignia al mejor marinero"
     }
 }
