@@ -162,7 +162,7 @@
         "presentation_parrot_05": "¿Ves esa cruz blanca en el mapa? Indica la posición de un tesoro.",
         "S3_starts_01": "¡Mira! La fruta que me gusta está disponible por un corto período de tiempo de nuevo, recojámosla si quieres.",
         "presentation_parrot_06": "Pon las coordenadas en el dispositivo y navega directamente hacia allí para conseguir el tesoro. Usa los botones X e Y para seleccionar el eje.",
-        "presentation_parrot_07": "Notarás que las monedas debajo de la calculadora se descontarán. Cada vez que presiones el botón de navegar, gastarás una moneda. ¡Si te quedas sin monedas, el juego se reseteará!",
+        "presentation_parrot_07": "Notarás que las monedas debajo de la calculadora se descontarán cada vez que presiones el botón de navegar. ¡Si te quedas sin monedas, el juego se reseteará!",
         "treasure_win_S5": "¡Eres un héroe! Bien hecho. Más tesoros nos esperarán en nuestro próximo viaje.",
         "rewards_key": "Recompensas",
         "rewardpanel_presentation_3": "y si terminas sin monedas, obtendrás una estrella.",
